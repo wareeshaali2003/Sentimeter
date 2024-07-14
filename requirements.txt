@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+vaderSentiment
+neattext
+streamlit
+altair
+joblib
